@@ -4,7 +4,7 @@ from flask import Manager,Server
 # Creating app instance
 app = create_app('development')
 
-manager = Manager(app)
+manager = (app)
 manager.add_command('server',Server)
 @manager.command
 def test():
