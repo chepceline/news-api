@@ -1,4 +1,6 @@
 # [News Highlights Application]
+## Link to heroku app
+   https://fast-peak-93502.herokuapp.com/
 
 ## By Damaris Chepchirchir
 
